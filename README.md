@@ -6,6 +6,11 @@
 ```
 ./dmarcscan.sh -l domain.txt -t 30
 ```
+## Google Dorking
+```
+./RooterDork.sh Example.com
+```
+
 ## Test Live Subdomain Domain
 ```
  ./Rooterhttpscan  <Subdomainlist.txt>
